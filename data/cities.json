@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "bc8d",
+      "cityName": "Alboran Sea",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-27T07:58:43.758Z",
+      "notes": "",
+      "position": {
+        "lat": "36.56768745949069",
+        "lng": "-3.583494178749394"
+      }
+    },
+    {
+      "id": "e351",
+      "cityName": "Hassi Fedoul",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-05-27T07:59:57.775Z",
+      "notes": "",
+      "position": {
+        "lat": "35.50252845710886",
+        "lng": "2.212727178317264"
+      }
+    },
+    {
+      "id": "fb78",
+      "cityName": "Erbil",
+      "country": "Iraq",
+      "emoji": "🇮🇶",
+      "date": "2024-05-27T08:01:26.551Z",
+      "notes": "",
+      "position": {
+        "lat": "36.19463686271917",
+        "lng": "44.0508491851644"
+      }
+    },
+    {
+      "id": "e921",
+      "cityName": "Kasdir",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-05-27T12:36:15.551Z",
+      "notes": "",
+      "position": {
+        "lat": "33.242970079487385",
+        "lng": "-1.6040039062500002"
+      }
+    }
+  ]
+}
